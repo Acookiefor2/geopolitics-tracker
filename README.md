@@ -38,3 +38,4 @@ https://ollama.com/download
 Pull the model:
 
 ```bash
+ollama pull mistral
