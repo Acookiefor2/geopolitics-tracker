@@ -1,5 +1,5 @@
 # Geopolitical War Room Dashboard
-
+<img width="1909" height="963" alt="Screenshot 2026-05-22 210951" src="https://github.com/user-attachments/assets/5ea68ddc-78a3-4056-8f54-4106f0fcc19f" />
 A free, open-source, local-first geopolitical intelligence dashboard built with Python, Streamlit, Pydeck, SQLite, RSS feeds, and Ollama.
 
 The dashboard scrapes international news RSS feeds, uses a local Ollama model to extract structured geopolitical events, stores them in SQLite, and visualizes source-to-target relationships on a dark tactical map.
